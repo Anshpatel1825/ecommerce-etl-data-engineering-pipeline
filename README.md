@@ -113,17 +113,31 @@ The project uses multiple datasets:
 
 ## 📊 Power BI Dashboard
 
+
+# 📊 Dashboard Preview
+
+## 🧾 Main Dashboard
+![Dashboard](https://github.com/Anshpatel1825/ecommerce-etl-data-engineering-pipeline/blob/main/Dashboard.png?raw=true)
+
+---
 ### 🔹 Page 1: Executive Overview
 - Total Revenue
 - Total Orders
 - Average Order Value
 - Late Delivery %
 
+
+## 👤 Customer Analysis
+![Customer Analysis](https://github.com/Anshpatel1825/ecommerce-etl-data-engineering-pipeline/blob/main/Customer%20Analysis.png?raw=true)
+
+---
 ### 🔹 Page 2: Sales Analysis
 - Monthly Sales Trend
 - Revenue by City
 - Orders by State
 
+## 🛒 Seller Analysis
+![Seller Analysis](https://github.com/Anshpatel1825/ecommerce-etl-data-engineering-pipeline/blob/main/Saller%20Analysis.png?raw=true)
 ### 🔹 Page 3: Advanced Insights
 - Review Distribution
 - Seller Performance
